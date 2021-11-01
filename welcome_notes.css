@@ -1,0 +1,16 @@
+.body{
+    font-family: 'Balsamiq Sans', cursive;
+    background-image: url("cityimg1.jpg"); 
+}
+#user_name{
+    background-color: rgb(102, 235, 195);
+    width: 20%;
+    height: 20%;
+    border-radius: 15px;
+}
+#username_button{
+    width:20%;
+    height:30%;
+    background-color: rgb(193, 160, 247);
+    border-radius: 20px;
+}

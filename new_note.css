@@ -1,0 +1,27 @@
+
+.body{
+    font-family: 'Balsamiq Sans', cursive;
+    background-image: url("newnoteimg.jpg"); 
+} #customize_button{
+    background-color: rgb(35, 197, 189);
+    border-radius: 30px;
+    width: 20%;
+    height: 30%;
+}
+
+#size_type{
+    background-color: mediumaquamarine;
+    border-radius: 20px;
+    width: 30%;
+    height: 30%;
+}
+#color_type{
+    background-color:plum;
+    border-radius: 20px;
+    width: 30%;
+    height: 30%;
+}
+#fonts{
+    width: 20%;
+    height:20%;
+}
